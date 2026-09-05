@@ -4,11 +4,11 @@
 
 
 const supabaseUrl =
-  "https://qexgbswdbwlpydolpcll.supabase.co";
+  "https://bdqcfzeuextdzmsapref.supabase.co";
 
 
 const supabaseKey =
-  "sb_publishable_3Vo6VOuDzVbN5355c9HeDA_1YwQPR6l";
+  "sb_publishable_Dvr9uhTqvLgLYwF4PUXmgA_Iyh3-dl3";
 
 
 export const supabase =
